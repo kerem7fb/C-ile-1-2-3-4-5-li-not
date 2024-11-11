@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\1-2-3-4-5 Lİ NOT\1-2-3-4-5 Lİ NOT\bin\Debug\1-2-3-4-5 Lİ NOT.exe.config
+C:\Users\user\Desktop\10-M\1-2-3-4-5 Lİ NOT\1-2-3-4-5 Lİ NOT\bin\Debug\1-2-3-4-5 Lİ NOT.exe
+C:\Users\user\Desktop\10-M\1-2-3-4-5 Lİ NOT\1-2-3-4-5 Lİ NOT\bin\Debug\1-2-3-4-5 Lİ NOT.pdb
+C:\Users\user\Desktop\10-M\1-2-3-4-5 Lİ NOT\1-2-3-4-5 Lİ NOT\obj\Debug\_1_2_3_4_5_Lİ_NOT.Form1.resources
+C:\Users\user\Desktop\10-M\1-2-3-4-5 Lİ NOT\1-2-3-4-5 Lİ NOT\obj\Debug\_1_2_3_4_5_Lİ_NOT.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\1-2-3-4-5 Lİ NOT\1-2-3-4-5 Lİ NOT\obj\Debug\1-2-3-4-5 Lİ NOT.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\1-2-3-4-5 Lİ NOT\1-2-3-4-5 Lİ NOT\obj\Debug\1-2-3-4-5 Lİ NOT.exe
+C:\Users\user\Desktop\10-M\1-2-3-4-5 Lİ NOT\1-2-3-4-5 Lİ NOT\obj\Debug\1-2-3-4-5 Lİ NOT.pdb
+C:\Users\user\Desktop\10-M\1-2-3-4-5 Lİ NOT\1-2-3-4-5 Lİ NOT\obj\Debug\1-2-3-4-5 Lİ NOT.csprojResolveAssemblyReference.cache
